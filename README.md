@@ -20,3 +20,5 @@
         NSLog(@"%@",resultArray);
     }];
 ```
+
+![Alt text](https://github.com/CoderDD/DDPickerView/blob/master/Screenshots/1525421401351.jpg)
